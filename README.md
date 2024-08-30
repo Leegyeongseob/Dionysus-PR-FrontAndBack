@@ -177,7 +177,8 @@
 
 # 6. 🌈메뉴 트리🌈
 
-![2024-05-06 22 02 38.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/bdf8d538-0573-4e53-8871-08828a72d8e6/0bbc6f9d-1db4-4c89-a5e4-3c48d865452b/2024-05-06_22_02_38.png)
+![image](https://github.com/user-attachments/assets/27be98ca-e174-4660-87fa-96e471ec7fbb)
+
 
 # 6. 🌈스토리 보드🌈
 
