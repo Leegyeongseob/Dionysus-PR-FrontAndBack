@@ -86,7 +86,7 @@ const DisplayWeather = () => {
   const getWeather = async () => {
     try {
       const responseFirst = fetch(
-        `http://api.openweathermap.org/data/2.5/weather?q=Seoul,KR&APPID=${key}&units=metric`
+        `https://api.openweathermap.org/data/2.5/weather?q=Seoul,KR&APPID=${key}&units=metric`
       );
 
       const data1 = await responseFirst; // API 응답 대기

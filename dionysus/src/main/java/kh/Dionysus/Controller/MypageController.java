@@ -14,6 +14,7 @@ import java.util.List;
 import java.util.Map;
 
 @RestController
+@CrossOrigin(origins = "https://www.dionysus-alcohol.store")
 @RequestMapping("/mypage")
 public class MypageController {
     MemberUpdateDao dao = new MemberUpdateDao();

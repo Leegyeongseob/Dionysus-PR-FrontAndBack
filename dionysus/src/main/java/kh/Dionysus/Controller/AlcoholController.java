@@ -10,6 +10,7 @@ import java.sql.SQLException;
 import java.util.List;
 
 @RestController
+@CrossOrigin(origins = "https://www.dionysus-alcohol.store")
 @RequestMapping("/alcohol")
 public class AlcoholController {
     //처음에 category로 들어가면 화면에 띄워주는 리스트 , 사용함.

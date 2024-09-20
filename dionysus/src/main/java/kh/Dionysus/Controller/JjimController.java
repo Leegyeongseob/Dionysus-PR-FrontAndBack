@@ -10,6 +10,7 @@ import java.sql.SQLException;
 import java.util.List;
 
 @RestController
+@CrossOrigin(origins = "https://www.dionysus-alcohol.store")
 @RequestMapping("/jjim")
 public class JjimController {
     //사용함.

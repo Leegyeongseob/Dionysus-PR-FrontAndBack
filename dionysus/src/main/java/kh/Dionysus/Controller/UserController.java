@@ -11,6 +11,7 @@ import java.util.List;
 import java.util.Map;
 
 @RestController
+@CrossOrigin(origins = "https://www.dionysus-alcohol.store")
 @RequestMapping("/users")
 @Slf4j //롬복내장 디버깅 어노테이션
 public class UserController {
