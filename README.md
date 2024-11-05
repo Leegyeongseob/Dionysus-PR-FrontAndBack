@@ -22,12 +22,12 @@
 # 🧑🏻‍💻 Team
 
 - 👑이경섭👑 - SM(Scrum Master)
-- 
+  
 - 🤡박성진🤡 - DT(Development Team)
-- 
+  
 - 🕊︎강인구🕊︎ - PO(Product Owner)
-- 
-- 🪖김세호🪖 - DT(Development Team)
+  
+- 🧑🏻‍🔧김세호🧑🏻‍🔧 - DT(Development Team)
 
 # 3. 🤚🏻 Part
 
